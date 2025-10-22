@@ -82,7 +82,7 @@ nav ul li a:hover {
   nav ul {
     display: none;
     flex-direction: column;
-    background-color: #004aad;
+    background-color: white;
     position: absolute;
     top: 70px;
     right: 20px;
